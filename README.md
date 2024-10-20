@@ -1,4 +1,4 @@
-# E-Commerce Application
+# Product-Category crud Application
 
 This project is a simple e-commerce application built with Spring Boot, Hibernate, and JPA. It allows users to manage categories and products with support for pagination and lazy loading.
 
